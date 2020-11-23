@@ -23,10 +23,10 @@
     <ClCompile Include="pch.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="单调栈.cpp">
+    <ClCompile Include="矩阵连乘.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="动态规划.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
